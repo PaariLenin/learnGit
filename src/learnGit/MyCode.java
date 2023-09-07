@@ -1,6 +1,6 @@
 package learnGit;
 import java.util.Scanner;
-
+// Learning Git repository in local system
 public class MyCode {
 
 	public static void main(String[] args) {
