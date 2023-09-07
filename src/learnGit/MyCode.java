@@ -1,6 +1,7 @@
 package learnGit;
 import java.util.Scanner;
 // Learning Git repository in local system
+// Next step is to learn remote commit commit 3
 public class MyCode {
 
 	public static void main(String[] args) {
