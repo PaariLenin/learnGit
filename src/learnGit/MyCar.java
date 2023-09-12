@@ -6,7 +6,7 @@ public class MyCar {
 	int carAge;
 	String carColor;
 	String carLength; // This is the length of the car
-	int carCost; //The car cost
+	int carCost; //The car cost - Commit 4
 
 	void dueCare() {
 		System.out.println("\nCar Advice: \"Your car needs to serviced if more than 1 year old\"\n");
