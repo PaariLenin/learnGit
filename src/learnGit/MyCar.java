@@ -5,7 +5,7 @@ public class MyCar {
 	String carModel;
 	int carAge;
 	String carColor;
-	String carLength; // This is the length of the car
+	String carLength; // This is the length of the car - commit 5
 	int carCost; //The car cost - Commit 4
 
 	void dueCare() {
